@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\my-blog\\my-blog"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\06-CSS_Project\\src"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
